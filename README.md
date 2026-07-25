@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Zuko
 
-<!--
-**ZukoG/ZukoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about building reliable backend systems, cloud solutions, and cybersecurity tools that solve real-world problems.
 
-Here are some ideas to get you started:
+Currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ☕ Java & Object-Oriented Programming
+* ⚙️ Backend Development
+* ☁️ Cloud Computing (AWS & Oracle Cloud)
+* 🔐 Cybersecurity
+* 🗄️ Databases (PostgreSQL & MySQL)
+
+I'm currently sharpening my skills through WeThinkCode while building projects that strengthen my software engineering fundamentals and preparing for a career in backend development and cloud engineering.
+
+### What you'll find here
+
+* Java projects and assessment practice
+* Backend applications and APIs
+* Cloud & cybersecurity projects
+* Open-source contributions
+* Continuous learning and experimentation
+
+> "Every commit is another step toward becoming a better engineer."
+
+Always learning. Always building.
