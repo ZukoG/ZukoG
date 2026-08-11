@@ -21,12 +21,17 @@ jobs:
       - uses: actions/checkout@v5
 
       - name: Generate stats card
+        # needs a real PAT (STATS_TOKEN, read:user + repo scope), not GITHUB_TOKEN:
+        # the stats card sums stargazers.totalCount across every repo via GraphQL, and the
+        # auto GITHUB_TOKEN is scoped only to this repo, so that query 403s with
+        # "Resource not accessible by integration" - confirmed against the actual run logs.
+        # top-langs below doesn't need this, it never queries stargazers.
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top-langs card
         uses: readme-tools/github-readme-stats-action@v1
