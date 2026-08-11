@@ -1,0 +1,45 @@
+name: Generate Stats Cards
+
+# Renders the GitHub stats + top-langs cards as static SVGs and commits them to the repo,
+# instead of hotlinking github-readme-stats.vercel.app (that public deployment is now
+# permanently paused - the project is unmaintained, see anuraghazra/github-readme-stats#4867).
+# Same approach as snake.yml, just no push trigger here since this workflow commits straight
+# to main and a push trigger would make it re-trigger itself on every run.
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # runs daily at 03:00 UTC
+  workflow_dispatch: {}     # lets you trigger it manually
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top-langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update README stats cards" || exit 0
+          git push

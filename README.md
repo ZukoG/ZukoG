@@ -78,13 +78,17 @@ Every repository represents another step towards becoming a better engineer.
 
 ## 📊 GitHub Stats
 
+<!-- fixed: github-readme-stats.vercel.app's public deployment is now permanently paused (project is unmaintained,
+     see anuraghazra/github-readme-stats#4867), so the stats/top-langs cards below now come from the new
+     stats.yml Action (same pattern as snake.yml) which renders them to static SVGs committed under profile/.
+     streak-stats.demolab.com is a separate service and was still working fine, left as-is. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZukoG&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="./profile/stats.svg" />
   <img height="165" src="https://streak-stats.demolab.com/?user=ZukoG&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZukoG&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile/top-langs.svg" />
 </p>
 
 ---
@@ -92,7 +96,8 @@ Every repository represents another step towards becoming a better engineer.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZukoG/ZukoG/output/dist/github-contribution-grid-snake.svg" />
+  <!-- fixed: snake.yml pushes dist/*.svg to the ROOT of the output branch (crazy-max/ghaction-github-pages strips the dist/ prefix), so the old "output/dist/..." path 404'd -->
+  <img src="https://raw.githubusercontent.com/ZukoG/ZukoG/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
