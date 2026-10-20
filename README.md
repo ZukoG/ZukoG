@@ -17,7 +17,7 @@ I'm a software developer passionate about building reliable backend systems, clo
 
 Currently sharpening my skills through **WeThinkCode_**, focusing on strong software engineering fundamentals, clean code practices, object-oriented programming, and building practical applications.
 
-My goal is to become a backend-focused engineer who understands not only how to build software, but also how to deploy, secure, and scale it.
+My goal is to become a DevSecOps Engineer, combining software development, cloud infrastructure, automation, and cybersecurity to build, deploy, and maintain secure and reliable systems. I'm continuously exploring cloud technologies and security practices, with a particular interest in the AWS ecosystem.
 
 ---
 
