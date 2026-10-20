@@ -6,7 +6,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Developer+%E2%98%95;Cloud+Engineer+in+Progress+%E2%98%81%EF%B8%8F;Cybersecurity+Explorer+%F0%9F%94%90;Always+Learning.+Always+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-stack+Developer+%E2%98%95;Cloud+Engineer+in+Progress+%E2%98%81%EF%B8%8F;Cybersecurity+Explorer+%F0%9F%94%90;Always+Learning.+Always+Building+%F0%9F%9A%80" />
 </p>
 
 <br>
