@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Zuko%20Gutyungwa&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h1 align="center">👋 Hi, I'm Zuko</h1>
-<h3 align="center">Software Developer | Backend Engineer in Progress | Cloud & Cybersecurity Enthusiast</h3>
+<h3 align="center">Software Developer | DevSecOps Engineer in Progress | Cloud & Cybersecurity Enthusiast</h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
