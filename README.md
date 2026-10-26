@@ -13,11 +13,11 @@
 
 ## 🚀 About Me
 
-I'm a software developer passionate about building reliable backend systems, cloud solutions, and cybersecurity tools that solve real world problems.
+I'm a full-stack software developer working towards a career in DevSecOps, where development, cloud infrastructure, automation, and cybersecurity come together. I like building practical, reliable software, along with the cloud and security tooling that keeps it safe in production.
 
-Currently sharpening my skills through **WeThinkCode_**, focusing on strong software engineering fundamentals, clean code practices, object-oriented programming, and building practical applications.
+I'm currently sharpening my skills through **WeThinkCode_**, with a focus on strong engineering fundamentals, clean code, and object-oriented design. Alongside my coursework I build projects that put those skills to work, from a passive web security scanner to serverless AWS tooling deployed with Terraform.
 
-My goal is to become a DevSecOps Engineer, combining software development, cloud infrastructure, automation, and cybersecurity to build, deploy, and maintain secure and reliable systems. I'm continuously exploring cloud technologies and security practices, with a particular interest in the AWS ecosystem.
+My goal is to become a DevSecOps Engineer who can build, deploy, and maintain secure systems end to end. I'm especially drawn to the AWS ecosystem, and I keep exploring new cloud technologies and security practices as I go.
 
 ---
 
