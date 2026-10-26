@@ -137,7 +137,8 @@ Every repository represents another step towards becoming a better engineer.
 - 🌱 System Design Fundamentals
 - 🌱 Cloud Architecture
 - 🌱 Secure Software Development
-- 🌱 DevOps Practices
+- 🌱 DevSecOps Practices (CI/CD pipelines, SAST and dependency scanning)
+- 🌱 Kubernetes & Container Orchestration
 
 ---
 
