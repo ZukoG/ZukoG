@@ -35,7 +35,29 @@ My goal is to become a DevSecOps Engineer, combining software development, cloud
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,express,postgres,mysql,docker,git,github,aws" />
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
+</p>
+
+<p align="center">
+  <b>Backend & Data</b><br>
+  <img src="https://skillicons.dev/icons?i=spring,maven,nodejs,express,postgres,mysql" />
+</p>
+
+<p align="center">
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs" />
+</p>
+
+<p align="center">
+  <b>Cloud & DevOps</b><br>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,git,github,linux" />
+</p>
+
+<p align="center">
+  <sub><b>Also:</b> Spring Security, JPA/Hibernate, Flyway, JWT, OpenAPI/Swagger, JUnit, pytest<br>
+  <b>Security tooling:</b> CodeQL, Trivy, Bandit, pip-audit<br>
+  <b>AWS services:</b> Lambda, API Gateway, DynamoDB, CloudWatch, IAM</sub>
 </p>
 
 ---
