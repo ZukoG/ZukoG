@@ -23,12 +23,12 @@ My goal is to become a DevSecOps Engineer, combining software development, cloud
 
 ## 🎯 Current Focus
 
-- ☕ **Java, Spring Boot & Object-Oriented Programming**
-- ⚙️ **Backend Development & REST APIs**
-- ☁️ **Cloud Computing (AWS & Oracle Cloud)**
-- 🏗️ **Infrastructure as Code (Terraform)**
 - 🔐 **Cybersecurity & Secure Application Development**
+- ☁️ **Cloud Computing (AWS & Oracle Cloud)**
 - 🔄 **CI/CD & DevSecOps (GitHub Actions, CodeQL, Trivy)**
+- 🏗️ **Infrastructure as Code (Terraform)**
+- 🖥️ **Full-Stack Development (Java, Python, React, TypeScript & Next.js)**
+- ⚙️ **Backend Development & REST APIs**
 - 🗄️ **Database Design (PostgreSQL & MySQL)**
 - 🐳 **Docker & System Deployment**
 
@@ -77,6 +77,12 @@ My goal is to become a DevSecOps Engineer, combining software development, cloud
 - Database integration
 - Server-side application development
 - JWT authentication, PostgreSQL and Flyway migrations
+- MySQL database design in a team brownfield project at WeThinkCode_
+
+### 🖥️ Full-Stack Development
+- React and TypeScript frontends, Node and Express backends, see [Mini-music-app](https://github.com/ZukoG/Mini-music-app)
+- Next.js in a collaborative team project
+- Python backend with a JavaScript web frontend in [zuri-watch-guard](https://github.com/ZukoG/zuri-watch-guard)
 
 ### ☁️ Cloud Computing
 - AWS fundamentals
@@ -97,7 +103,7 @@ My goal is to become a DevSecOps Engineer, combining software development, cloud
 
 Building projects that combine:
 
-**Software Engineering + Backend Development + Cloud Infrastructure + Cybersecurity**
+**Full-Stack Software Engineering + Cloud Infrastructure + Cybersecurity + DevSecOps**
 
 Every repository represents another step towards becoming a better engineer.
 
@@ -133,12 +139,12 @@ Every repository represents another step towards becoming a better engineer.
 
 ## 📚 Currently Learning
 
-- 🌱 Java Backend Development
-- 🌱 System Design Fundamentals
-- 🌱 Cloud Architecture
-- 🌱 Secure Software Development
+- 🌱 Cloud Architecture (AWS)
+- 🌱 Secure Software Development & Application Security
 - 🌱 DevSecOps Practices (CI/CD pipelines, SAST and dependency scanning)
 - 🌱 Kubernetes & Container Orchestration
+- 🌱 System Design Fundamentals
+- 🌱 Full-Stack Development (Java, Python, React & Next.js)
 
 ---
 
