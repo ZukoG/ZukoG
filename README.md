@@ -23,10 +23,12 @@ My goal is to become a DevSecOps Engineer, combining software development, cloud
 
 ## 🎯 Current Focus
 
-- ☕ **Java & Object-Oriented Programming**
+- ☕ **Java, Spring Boot & Object-Oriented Programming**
 - ⚙️ **Backend Development & REST APIs**
 - ☁️ **Cloud Computing (AWS & Oracle Cloud)**
+- 🏗️ **Infrastructure as Code (Terraform)**
 - 🔐 **Cybersecurity & Secure Application Development**
+- 🔄 **CI/CD & DevSecOps (GitHub Actions, CodeQL, Trivy)**
 - 🗄️ **Database Design (PostgreSQL & MySQL)**
 - 🐳 **Docker & System Deployment**
 
