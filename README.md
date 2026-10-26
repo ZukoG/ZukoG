@@ -70,21 +70,26 @@ My goal is to become a DevSecOps Engineer, combining software development, cloud
 - Object-oriented programming projects
 - Design patterns and clean architecture practice
 - Console applications and backend systems
+- Spring Boot, Spring Security and JPA in [sentinel-secscan](https://github.com/ZukoG/sentinel-secscan)
 
 ### ⚙️ Backend Engineering
 - REST APIs
 - Database integration
 - Server-side application development
+- JWT authentication, PostgreSQL and Flyway migrations
 
 ### ☁️ Cloud Computing
 - AWS fundamentals
 - Oracle Cloud Infrastructure
 - Cloud deployment concepts
+- Serverless on AWS (Lambda, API Gateway, DynamoDB) deployed with Terraform in [sentinel-cloudcheck](https://github.com/ZukoG/sentinel-cloudcheck)
 
 ### 🔐 Cybersecurity
 - Security-focused projects
 - Exploring vulnerability awareness
 - Building safer software systems
+- Passive web security scanning in [sentinel-secscan](https://github.com/ZukoG/sentinel-secscan)
+- Leaked secret detection in git history with [sentinel-secrets](https://github.com/ZukoG/sentinel-secrets)
 
 ---
 
